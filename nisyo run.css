@@ -1,0 +1,49 @@
+.fsize{
+    background:#058a00;
+    font-size: 60;
+    width: 1900px;
+    line-height: 100px;
+    margin-top: -8px;
+    font-family: Microsoft Sans Serif;
+}
+
+.text1{
+    font-size: 60px;
+    font-family: Impact;
+position:absolute;
+top: 200px;
+left: 550px;
+margin-top: 80px;
+}
+
+.text2{
+    font-size: 30px;
+    font-family: Franklin Gothic Medium ;
+position:absolute;
+top: 450px;
+left: 650px;
+margin-top: 90px;
+}
+
+.text3{
+    font-size: 30px;
+    font-family: arial black;
+position:absolute;
+top: 2000px;
+left: 300px;
+margin-top: 200px;
+background: rgb(31, 145, 31);
+}
+
+.text4{
+    font-size: 50px;
+    padding-left: 100px;
+    padding-top: 30px;
+    font-family: MS Sans Serif;
+}
+.fos{
+    font-size: 50px;
+    margin-top: 200px;
+    padding-top: 40px; 
+color: red;
+}
